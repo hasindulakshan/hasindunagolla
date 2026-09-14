@@ -25,7 +25,6 @@
   <img src="https://komarev.com/ghpvc/?username=hasindu-nagolla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Agentic_AI-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
   <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/System_Design-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" alt="System Design" />
